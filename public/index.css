@@ -1,0 +1,29 @@
+body{
+    overflow-x: hidden;
+    height: auto;
+}
+.fixed{
+    position: fixed;
+}
+.margin-top{
+   margin-top: 2ovw;
+
+}
+.background-img{
+    height: 40vw;
+    width: 100vw;
+
+    background-image: url("stocks2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid{
+    display: grid;
+    place-items: center;
+}
+.searchbar{
+    width: 60vw;
+}
+.o-background-color{
+    background-color: whitesmoke;
+}
